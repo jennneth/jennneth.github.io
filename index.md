@@ -4,7 +4,7 @@
 
 ### Full Stack Development 
 
-[Where To Build A Brewery](/https://github.com/jennneth/brewery_location_recommendation/readme.md)
+[Where To Build A Brewery](/https://github.com/jennneth/brewery_location_recommendation/)
 
 Team project where we collaborated on project design, project plan, data ETL from CSV and JSON sources, development of database files, data analysis, FLASK server, and webpage production.
 
