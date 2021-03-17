@@ -1,7 +1,9 @@
 title: Jennifer Johansson # your name (or website title) here
-logo: "/images/jen.png?raw=true" # your photo (or logo) here
+logo: "/images/jen.png" #?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Data Science Student and experienced Customer Success Manager 
+  Data Science Student<br>
+  and <br>
+  experienced Customer Success Manager 
   <br><br>
   exploring opportunities to merge data science with people and business management
   <br><br>
