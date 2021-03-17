@@ -28,9 +28,9 @@ Read data from a CSV and plot a graph using D3. Draw SVG using HTML and CSS.
 <img src="images/D3_thumb.png?raw=true"/>
 
 
-#- [Project 3 Title](http://example.com/)
-#- [Project 4 Title](http://example.com/)
-#- [Project 5 Title](http://example.com/)
+//- [Project 3 Title](http://example.com/)
+//- [Project 4 Title](http://example.com/)
+//- [Project 5 Title](http://example.com/)
 
 ---
 
