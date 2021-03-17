@@ -1,4 +1,4 @@
-##Jennifer Johansson's Professional Developer Portfolio built using a Minimal Jekyll theme for GitHub Pages.
+## Jennifer Johansson's Professional Developer Portfolio built using a Minimal Jekyll theme for GitHub Pages.
 
 
 
