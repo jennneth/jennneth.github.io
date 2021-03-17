@@ -2,10 +2,10 @@
 
 ---
 
-### Category Name 1 
+### Full Stack Development 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Where To Build A Brewery](/https://github.com/jennneth/brewery_location_recommendation/readme.md)
+<img src="images/BB_map_thumb.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
