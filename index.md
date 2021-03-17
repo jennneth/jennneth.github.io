@@ -19,7 +19,7 @@ SQLite, reading JSON, python, pandas and matplotlib, ETL, Flask Server, creating
 
 ### JavaScript, D3, Leaflet
 
-- [Mapping Earthquake Data Using Leaflet](http://jennneth.github.io/leaflet-challenge)
+- [Mapping Earthquake Data Using Leaflet](http://github.com/jennneth/leaflet-challenge)
 Read geoJSON earthquake data from the USGS and plot earthquake data as well as the tectonic plates on a map using Leaflet.
 <img src="images/earthquake_map_thumb.png?raw=true"/>
 
@@ -30,5 +30,4 @@ Read data from a CSV and plot a graph using D3. Draw SVG using HTML and CSS.
 
 ---
 
----
 
