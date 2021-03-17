@@ -34,10 +34,10 @@ HTML and CSS
 */
 ---
 
-### Category Name 2
+### JavaScript, D3, Leaflet
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
+- [Mapping Earthquake Data Using Leaflet](https://jennneth.github.io/leaflet-challenge/)
+- [Correlation between Median Age and Obesity](https://github.com/jennneth/d3-challenge)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
