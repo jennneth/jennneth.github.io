@@ -23,20 +23,12 @@ JSONIFY
 JavaScript, Leaflet, D3, and Slick
 HTML and CSS
 
-/*
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-*/
----
 
 ### JavaScript, D3, Leaflet
 
 - [Mapping Earthquake Data Using Leaflet](https://jennneth.github.io/leaflet-challenge/)
+
+
 - [Correlation between Median Age and Obesity](https://github.com/jennneth/d3-challenge)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
