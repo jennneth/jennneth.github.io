@@ -5,15 +5,31 @@
 ### Full Stack Development 
 
 [Where To Build A Brewery](/https://github.com/jennneth/brewery_location_recommendation/)<br>
-Team project where we collaborated on project design, project plan, data ETL from CSV and JSON sources, development of database files, data analysis, FLASK server, and webpage production.
+Summary: 
+[Where To Build A Brewery](/https://github.com/jennneth/brewery_location_recommendation/) is a team project where we collaborated on design, planning, data ETL, and engineering to produce a production-ready webpage that identifies good investment opportunities for small businesses. Throughout the process, we extracted data from CSV- and JSON-formatted sources to analyze and display on a webpage served by a Python Flask server.
 
 Inspiration:
-We are marketing analysts for the “Holy Ale Brewery” and are tasked with identifying and recommending the next 5 cities we should open our new breweries. Using the data sources we will create a dashboard that explains which cities would be an investment opportunity based on population and median household income.
-
+We are marketing analysts for the “Holy Ale Brewery” and are tasked with recommending the next 5 cities which would pose good business opportunities for new breweries. Using publicly available data sources:
+  Brewery CSV:https://data.world/datafiniti/breweries-brew-pubs-in-the-usa
+  Starbucks CSV: https://gist.github.com/dankohn/09e5446feb4a8faea24
+  Census/IRS Data:https://www.irs.gov/statistics/soi-tax-stats-individual-income-tax-statistics-2018-zip-code-data-soi
+  State-ZipCode GeoJSON: https://github.com/OpenDataDE/State-zip-code-GeoJSON
+we created a dashboard that identifies which cities in a list would be good investment opportunities based on population, median household income, and other key demographics.
 <img src="images/BB_map_thumb.png?raw=true"/>
 
 Technology Used:
-SQLite, reading JSON, python, pandas and matplotlib, ETL, Flask Server, creating JSON and geoJSON files, JavaScript, Leaflet, D3, and Slick, HTML and CSS
+* SQLite
+* Python3 with libraries:
+  * Pandas
+  * Matplotlib
+  * Flask
+* JavaScript
+* HTML/CSS
+* Data formatted as JSON, CSV and geoJSON
+* Leaflet
+* D3
+* Slick
+  
 ---
 
 ### JavaScript, D3, Leaflet
