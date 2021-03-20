@@ -22,13 +22,13 @@ Technology Used:
   * Pandas
   * Matplotlib
   * Flask
-* JavaScript
+* JavaScript with libraries:
+  * Leaflet
+  * D3
+  * Slick
 * HTML/CSS
 * Data formatted as JSON, CSV and geoJSON
-* Leaflet
-* D3
-* Slick
-  
+ 
 ---
 
 ### JavaScript, D3, Leaflet
